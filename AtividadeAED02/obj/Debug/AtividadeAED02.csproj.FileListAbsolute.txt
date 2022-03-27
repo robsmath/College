@@ -1,0 +1,7 @@
+C:\Users\robson.junio\source\repos\AtividadeAED02\bin\Debug\AtividadeAED02.exe.config
+C:\Users\robson.junio\source\repos\AtividadeAED02\bin\Debug\AtividadeAED02.exe
+C:\Users\robson.junio\source\repos\AtividadeAED02\bin\Debug\AtividadeAED02.pdb
+C:\Users\robson.junio\source\repos\AtividadeAED02\obj\Debug\AtividadeAED02.csprojAssemblyReference.cache
+C:\Users\robson.junio\source\repos\AtividadeAED02\obj\Debug\AtividadeAED02.csproj.CoreCompileInputs.cache
+C:\Users\robson.junio\source\repos\AtividadeAED02\obj\Debug\AtividadeAED02.exe
+C:\Users\robson.junio\source\repos\AtividadeAED02\obj\Debug\AtividadeAED02.pdb

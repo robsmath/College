@@ -1,0 +1,16 @@
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\72101172\AppData\Local\Microsoft\VisualStudio\17.0_b745d68f\Settings\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+H:\Visual Studio 2022\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

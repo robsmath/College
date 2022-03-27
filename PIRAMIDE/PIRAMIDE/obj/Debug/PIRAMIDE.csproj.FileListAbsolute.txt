@@ -1,0 +1,8 @@
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\bin\Debug\PIRAMIDE.exe.config
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\bin\Debug\PIRAMIDE.exe
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\bin\Debug\PIRAMIDE.pdb
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\obj\Debug\PIRAMIDE.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\obj\Debug\PIRAMIDE.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\obj\Debug\PIRAMIDE.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\obj\Debug\PIRAMIDE.exe
+H:\Visual Studio 2022\Projects\PIRAMIDE\PIRAMIDE\obj\Debug\PIRAMIDE.pdb

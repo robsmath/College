@@ -1,0 +1,7 @@
+C:\Users\robson.junio\source\repos\ExercicioAED\bin\Debug\ExercicioAED.exe.config
+C:\Users\robson.junio\source\repos\ExercicioAED\bin\Debug\ExercicioAED.exe
+C:\Users\robson.junio\source\repos\ExercicioAED\bin\Debug\ExercicioAED.pdb
+C:\Users\robson.junio\source\repos\ExercicioAED\obj\Debug\ExercicioAED.csprojAssemblyReference.cache
+C:\Users\robson.junio\source\repos\ExercicioAED\obj\Debug\ExercicioAED.csproj.CoreCompileInputs.cache
+C:\Users\robson.junio\source\repos\ExercicioAED\obj\Debug\ExercicioAED.exe
+C:\Users\robson.junio\source\repos\ExercicioAED\obj\Debug\ExercicioAED.pdb
